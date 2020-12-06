@@ -1,6 +1,6 @@
 # global_greetings 🗣
 
-[![NPM version](https://img.shields.io/npm/v/global-greetings-mod?style=flat)](https://www.npmjs.com/package/tocsify) [![NPM downloads](https://img.shields.io/npm/dm/global-greetings-mod.svg?style=flat)](https://npmjs.org/package/global-greetings-mod) [![Build Status](https://img.shields.io/travis/squeaky/global-greetings-mod.svg?style=flat)](https://travis-ci.org/squeaky/global-greetings-mod)
+[![NPM version](https://img.shields.io/npm/v/global-greetings-mod?style=flat)](https://www.npmjs.com/package/global-greetings-mod) [![NPM downloads](https://img.shields.io/npm/dm/global-greetings-mod.svg?style=flat)](https://npmjs.org/package/global-greetings-mod) [![Build Status](https://img.shields.io/travis/squeaky/global-greetings-mod.svg?style=flat)](https://travis-ci.org/squeaky/global-greetings-mod)
 
 📋 npm module that **generates a random greeting in a different language**
 
